@@ -1,0 +1,28 @@
+Python
+1. Variables
+    1. Can contain a-z A-Z 0-9 _
+    2. Cann't start with number
+    3. Can not contain space
+
+2. Comments
+    Single line comment #
+
+3. Docs String
+    """Docs here.."""
+
+4. Datatype
+    Numaric
+    1. Int - int
+    2. Float - float
+    3. Complex - complex
+    Boolean
+    4. Boolean - bool
+    Sequence
+    5. String - str
+    6. Tuple - tuple
+    7. List - list
+    8. Range - range
+    Set
+    9. Set - set
+    Mapping
+    10. Dictionary - dict
