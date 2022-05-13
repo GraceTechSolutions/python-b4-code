@@ -1,3 +1,4 @@
+# Ashish ------
 Python
 1. Variables
     1. Can contain a-z A-Z 0-9 _
@@ -26,3 +27,25 @@ Python
     9. Set - set
     Mapping
     10. Dictionary - dict
+
+5. IO -> Input Output
+
+6. Operators
+    1. Arithmatic
+    2. Assignment
+    3. Relational
+    4. Logical
+    5. Bitwise
+    6. Membership
+    7. Identity
+
+7. Control Statment
+    1. if
+    2. if else
+    3. if elif else
+    4. while loop
+    5. for loop
+    6. else suite
+    7. break
+    8. continue
+    9. pass
